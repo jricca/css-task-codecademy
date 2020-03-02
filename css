@@ -1,0 +1,24 @@
+header {
+  background-color: blue;
+  height: 100px;
+  width: 100%
+}
+
+header h1 {
+  font-size: 30px;
+  
+}
+body {
+}
+
+#colors-section {
+  background-color: green;
+}
+
+#fonts-section {
+  background-color: red;
+}
+
+#style-section {
+  background-color: Brown;
+}
